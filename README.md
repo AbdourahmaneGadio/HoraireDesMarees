@@ -45,23 +45,31 @@ Ce tableau comporte les données suivantes :
 L’application une fois ouverte, se présente sous ce format : 
 
 <div id = "Fonctionnalites">
+    
 ## Fonctionnalités
+    
 </div>
 
 <div id = "ChoixDate">
+    
 ### a. Choix de la date
+    
 </div>
 
 Il est possible de choisir la date que nous souhaitons, à partir d’un calendrier.
 
 <div id = "Jour">
+    
 #### Jour
+    
 </div>
 
 Pour choisir un jour, il suffit de cliquer sur la case correspondante au jour souhaité.
     
 <div id = "Suivant">
+    
 #### Suivant
+    
 </div>
 
 Pour passer au mois suivant, il faut cliquer sur la flèche : 
@@ -69,7 +77,9 @@ Pour passer au mois suivant, il faut cliquer sur la flèche :
 Elle se situe ici : 
     
 <div id = "Precedent">
+    
 #### Précédent
+    
 </div>
 
 Pour passer au mois précédent, il faut cliquer sur la flèche : 
@@ -78,7 +88,9 @@ Pour passer au mois précédent, il faut cliquer sur la flèche :
 Elle se situe ici : 
     
 <div id = "Premier">
+    
 #### Premier
+    
 </div>
 
 Pour être directement sur le mois de Janvier, il faut cette fois-ci cliquer sur la flèche :
@@ -86,7 +98,9 @@ Pour être directement sur le mois de Janvier, il faut cette fois-ci cliquer sur
 Situé à cette emplacement : 
     
 <div id = "Dernier">
+    
 #### Dernier
+    
 </div>
 
 Pour être directement sur le mois de Décembre il faut cliquer sur la flèche :
@@ -97,13 +111,17 @@ Situé à cette emplacement :
 
 
 <div id = "ChoixPort">
+    
 ### b. Choix du port
+    
 </div>
 
 Le choix du port s’effectue en appuyant sur les boutons, et en choisissant un port, parmi ceux proposés.
 
 <div id = "Boutons">
+    
 #### i. Boutons
+    
 </div>
 
 L’application propose 2 choix : celui d’appuyer sur le bouton Atlantique, ou bien d’appuyer sur le bouton Manche.
@@ -111,13 +129,17 @@ Les boutons correspondants, permettrons l’affichage de la liste des ports, app
 Pour afficher ces listes, il suffit de cliquer sur un des boutons.
     
 <div id = "Liste">
+    
 #### ii. Liste
+    
 </div>
 
 Les listes, contiennent chacune, une liste de ports appartenant soit à l’Atlantique, soit à la Manche.
 
 <div id = "AffichageDonnees">
+    
 ### c. Affichage des données du port
+    
 </div>
 
 L’application comporte un tableau contenant la date, choisie par l’utilisateur, ainsi que les nombreuses données du port sélectionné.
@@ -125,7 +147,9 @@ L’application comporte un tableau contenant la date, choisie par l’utilisate
 Ces données dépendent des valeurs choisies dans le calendrier (2.a), et dans la liste (2.b).
 
 <div id = "Conclusion">
+    
 ## Conclusion
+    
 </div>
 
 Nous avons pu réalisé la partie sélection de date, choix du port, et affichage de données de l’application.
