@@ -3,27 +3,27 @@
 ## Table des matières
 <ul>
     <li><a href="#Presentation">Présentation</a></li>
-    <li>Fonctionnalités</li>
+    <li><a href="#Fonctionnalites">Fonctionnalités</a></li>
        <ul>
-        <li>a. Choix de la date</li>
+        <li><a href="#ChoixDate">a. Choix de la date</a></li>
            <ul>
-            <li>Jour</li>
-            <li>Suivant</li>
-            <li>Précédent</li>
-            <li>Premier</li>
-            <li>Dernier</li>
+            <li><a href="#Jour">Jour</a></li>
+            <li><a href="#Suivant">Suivant</a></li>
+            <li><a href="#Precedent">Précédent</a></li>
+            <li><a href="#Premier">Premier</a></li>
+            <li><a href="#Dernier">Dernier</a></li>
            </ul>    
-        <li>b. Choix du port</li>
+        <li><a href="#ChoixPort">b. Choix du port</a></li>
            <ul> 
-            <li>i. Boutons</li>
-            <li>ii. Liste</li>
+            <li><a href="#Boutons">i. Boutons</a></li>
+            <li><a href="#Liste">ii. Liste</a></li>
            </ul>    
-        <li>c. Affichage des données du port</li>
+        <li><a href="#AffichageDonnees">c. Affichage des données du port</a></li>
        </ul>    
-    <li>Conclusion</li>
+    <li><a href="#Conclusion">Conclusion</a></li>
 </ul>
 
-<div id = "contactUs">
+<div id = "Presentation">
     
 ## Présentation
     
@@ -44,23 +44,23 @@ Ce tableau comporte les données suivantes :
 
 L’application une fois ouverte, se présente sous ce format : 
 
-<div id = "contactUs">
+<div id = "Fonctionnalites">
 ## Fonctionnalités
 </div>
 
-<div id = "contactUs">
+<div id = "ChoixDate">
 ### a. Choix de la date
 </div>
 
 Il est possible de choisir la date que nous souhaitons, à partir d’un calendrier.
 
-<div id = "contactUs">
+<div id = "Jour">
 #### Jour
 </div>
 
 Pour choisir un jour, il suffit de cliquer sur la case correspondante au jour souhaité.
     
-<div id = "contactUs">
+<div id = "Suivant">
 #### Suivant
 </div>
 
@@ -68,7 +68,7 @@ Pour passer au mois suivant, il faut cliquer sur la flèche :
 
 Elle se situe ici : 
     
-<div id = "contactUs">
+<div id = "Precedent">
 #### Précédent
 </div>
 
@@ -77,7 +77,7 @@ Pour passer au mois précédent, il faut cliquer sur la flèche :
 
 Elle se situe ici : 
     
-<div id = "contactUs">
+<div id = "Premier">
 #### Premier
 </div>
 
@@ -85,7 +85,7 @@ Pour être directement sur le mois de Janvier, il faut cette fois-ci cliquer sur
 
 Situé à cette emplacement : 
     
-<div id = "contactUs">
+<div id = "Dernier">
 #### Dernier
 </div>
 
@@ -96,13 +96,13 @@ Situé à cette emplacement :
 
 
 
-<div id = "contactUs">
+<div id = "ChoixPort">
 ### b. Choix du port
 </div>
 
 Le choix du port s’effectue en appuyant sur les boutons, et en choisissant un port, parmi ceux proposés.
 
-<div id = "contactUs">
+<div id = "Boutons">
 #### i. Boutons
 </div>
 
@@ -110,13 +110,13 @@ L’application propose 2 choix : celui d’appuyer sur le bouton Atlantique, o
 Les boutons correspondants, permettrons l’affichage de la liste des ports, appartenant soit à l’Atlantique, soit à la Manche.
 Pour afficher ces listes, il suffit de cliquer sur un des boutons.
     
-<div id = "contactUs">
+<div id = "Liste">
 #### ii. Liste
 </div>
 
 Les listes, contiennent chacune, une liste de ports appartenant soit à l’Atlantique, soit à la Manche.
 
-<div id = "contactUs">
+<div id = "AffichageDonnees">
 ### c. Affichage des données du port
 </div>
 
@@ -124,7 +124,7 @@ L’application comporte un tableau contenant la date, choisie par l’utilisate
 
 Ces données dépendent des valeurs choisies dans le calendrier (2.a), et dans la liste (2.b).
 
-<div id = "contactUs">
+<div id = "Conclusion">
 ## Conclusion
 </div>
 
