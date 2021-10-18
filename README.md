@@ -1,24 +1,34 @@
 # Horaire des Marées - Manuel Utilisateur
 
-Table des matières
-Présentation
-Fonctionnalités
-a. Choix de la date
-Jour
-Suivant
-Précédent
-Premier
-Dernier
-b. Choix du port
-i. Boutons
-ii. Liste
-c. Affichage des données du port
-Conclusion
+## Table des matières
+<ul>
+    <li>Présentation</li>
+   <li> Fonctionnalités
+       <ul>
+        <li>a. Choix de la date</li>
+           <ul>
+            <li>Jour</li>
+            <li>Suivant</li>
+            <li>Précédent</li>
+            <li>Premier</li>
+            <li>Dernier</li>
+           </ul>    
+        <li>b. Choix du port</li>
+           <ul> 
+            <li>i. Boutons</li>
+            <li>ii. Liste</li>
+           </ul>    
+        <li>c. Affichage des données du port</li>
+       </ul>    
+    <li>Conclusion
+</ul>
 
 ## Présentation
 
 Le projet réalisé, est une application comportant une horaire des marées.
-Elle permet à l’utilisateur de choisir une date via un calendrier, un port parmi une liste, et affiche toutes les données du port choisi dans un tableau: 
+
+Elle permet à l’utilisateur de choisir une date via un calendrier, un port parmi une liste, et affiche toutes les données du port choisi dans un tableau. 
+
 Ce tableau comporte les données suivantes : 
     • Les heures de pleine mer
     • Les heures de basse mer
