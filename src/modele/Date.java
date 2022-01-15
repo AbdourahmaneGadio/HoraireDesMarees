@@ -23,7 +23,8 @@ public class Date implements Comparable <Date>,ConstantesCalendrier {
    */
   public Date ()   { 
 	  GregorianCalendar dateAuj = new GregorianCalendar ();
-	  annee = dateAuj.get (Calendar.YEAR);
+	  //annee = dateAuj.get (Calendar.YEAR);
+	  annee = 2021;
 	  mois = dateAuj.get (Calendar.MONTH) + 1; 
 	  jour = dateAuj.get (Calendar.DAY_OF_MONTH);
 	  jourSemaine = dateAuj.get (Calendar.DAY_OF_WEEK);

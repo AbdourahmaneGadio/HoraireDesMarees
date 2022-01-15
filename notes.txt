@@ -1,0 +1,32 @@
+Affichage des marées : 
+
+	Doit indiquer :
+
+		les heures de pleine mer (PM)
+		les heures de basse mer (BM)
+		les hauteurs de mer correspondants
+		+ Coefficients 
+		
+		(comme le site https://maree.shom.fr)
+		
+	
+	Attributs (à changer) : 
+		
+		1 ligne = 1 date (1ère colonne) avec toutes ses données
+		
+		Heure PM (2ème, 5ème colonnes)
+		Heure BM (8ème, et 10ème colonnes)
+		Hauteur (3ème, 6ème, 9ème et 12ème colonnes )
+		Coefficient (4ème colonne - utile uniquement pour les PM)
+		
+		
+		
+		
+		
+		
+		
+Interface :
+
+	Zone avec sélection de date (Calendrier) + choix de port (JTextField [avec Mnemonique])
+	
+	Zone d'affichage des marées (c.f + haut)

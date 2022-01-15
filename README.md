@@ -41,6 +41,8 @@ Ce tableau comporte les données suivantes :
     <li>Ainsi que les coefficients</li>
 </ul>    
 
+Pour ouvrir l'application, utiliser un logiciel comme Eclipse,
+puis lancer "FenetreMarees".
 
 L’application une fois ouverte, se présente sous ce format : 
 
